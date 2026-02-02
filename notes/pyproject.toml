@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "worklog-desktop"
+version = "0.1.0"
+description = "A warm yellow themed desktop sticky note and work log application"
+authors = [
+  { name = "Developer", email = "dev@example.com" },
+]
+dependencies = [
+    "PySide6>=6.6.0",
+    "SQLAlchemy>=2.0.0",
+    "plyer>=2.1.0",
+    "reportlab>=4.0.0",
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    "Markdown>=3.5.0",
+    "pystray>=0.19.5",
+    "Pillow>=10.0.0",
+]
+requires-python = ">=3.9"
+
+[project.optional-dependencies]
+test = [
+    "pytest>=7.4.0",
+    "pytest-qt>=4.2.0",
+]
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests",
+]
