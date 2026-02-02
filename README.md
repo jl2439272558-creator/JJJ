@@ -36,6 +36,15 @@
 **[👉 点击下载 便签.exe (夸克网盘)](https://pan.quark.cn/s/a333553192db)**
 *下载即可使用，免安装。*
 
+### 软件界面
+<img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/afc484b6-097a-4332-9cbe-8be4b1c55408" />
+<img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/3b73bbfe-6614-406f-b45c-f3854cae3dda" />
+<img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/31f932f3-33f9-4238-9b95-e02d999a68a5" />
+<img width="416" height="489" alt="image" src="https://github.com/user-attachments/assets/bbfa91b6-ddad-493c-9ebf-97d2dfcd3295" />
+<img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/4c62f26a-4476-444a-b73f-302ba1809d03" />
+<img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/2616c0d4-2421-47a9-aa48-fe25d5e6eaf1" />
+<img width="333" height="500" alt="image" src="https://github.com/user-attachments/assets/269f13d0-a1d7-42d0-b1b6-75542f4d8af6" />
+
 ### 源码运行
 1. 安装依赖:
    ```bash
